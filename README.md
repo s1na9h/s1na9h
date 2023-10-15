@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sina</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1na9h" alt="s1na9h" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
